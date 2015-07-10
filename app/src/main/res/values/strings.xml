@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cards Against Humanity</string>
+    <string name="title_activity_main">Cards Against Humanity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_debug">Debug</string>
+    <string name="title_activity_game">Game Activity</string>
+    <string name="debug_code_bus1">bus1</string>
+    <string name="debug_code_bus2">bus2</string>
+    <string name="debug_code_bus3">bus3</string>
+    <string name="debug_code_wus">wus</string>
+    <string name="debug_code_prefs">prefs</string>
+    <string name="debug_code_settings">settings</string>
+    <string name="debug_code_black_cards">black</string>
+    <string name="title_activity_game_setup">GameSetup</string>
+    <string name="play">Play</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="edition">Edition</string>
+    <string name="available_editions">Available Editions</string>
+    <string name="default_edition">US</string>
+    <string name="cancel">Cancel</string>
+    <string name="rounds">Rounds</string>
+    <string name="players">Players</string>
+    <string name="ready">Ready</string>
+    <string name="ok">OK</string>
+    <string name="player">Player</string>
+    <string name="round">Round</string>
+    <string name="pick">Pick</string>
+
+    <string name="key_setup_players">SETUP_PLAYERS</string>
+    <string name="key_setup_rounds">SETUP_ROUNDS</string>
+    <string name="key_settings_edition">SETTINGS_EDITION</string>
+    <string name="key_setup_ready">SETUP_READY</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

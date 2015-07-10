@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.twistedblizzard.cardsagainsthumanity.NumberPickerRounds
+        android:defaultValue="20"
+        android:key="@string/key_setup_rounds"
+        android:title="@string/rounds" />
+    <com.twistedblizzard.cardsagainsthumanity.NumberPickerPlayers
+        android:defaultValue="4"
+        android:key="@string/key_setup_players"
+        android:title="@string/players" />
+    <Preference
+        android:key="@string/key_setup_ready"
+        android:title="@string/ready" />
+</PreferenceScreen>

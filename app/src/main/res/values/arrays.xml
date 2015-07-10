@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="editions">
+        <item>US</item>
+    </string-array>
+    <string-array name="black_us_1">
+        <item>How did I lose my virginity?</item>
+        <item>Why can\'t I sleep at night?</item>
+        <item>What\'s that smell?</item>
+        <item>I got 99 problems but ______ ain\'t one.</item>
+        <item>Maybe she\'s born with it. Maybe it\'s ______.</item>
+        <item>What\'s the next Happy Meal® toy?</item>
+        <item>Here is the church\nHere is the steeple\nOpen the doors\nAnd there is ______.</item>
+        <item>It\'s a pity kids these days are getting involved in ______.</item>
+        <item>Today on Maury: \"Help! My son is ______!\"</item>
+        <item>Alternative medicine is now embracing the curative powers of ______.</item>
+        <item>What\'s that sound?</item>
+        <item>What ended my last relationship?</item>
+        <item>MTV\'s new reality show features eight washed-up celebrities living with ______.</item>
+        <item>I drink to forget ______.</item>
+        <item>I\'m sorry Professor but I couldn\'t complete my homework because of ______.</item>
+        <item>What is Batman\'s guilty pleasure?</item>
+        <item>This is the way the world ends \\\nThis is the way the world ends \\\nNot with a bang but with ______.</item>
+        <item>What\'s a girl\'s best friend?</item>
+        <item>TSA guidelines now prohibit ______ on airplanes. </item>
+    </string-array>
+    <string-array name="black_us_2">
+        <item>And the Academy Award for ______ goes to ______.</item>
+        <item>For my next trick, I will pull ______ out of ______.</item>
+        <item>______ is a slippery slope that leads to ______.</item>
+        <item>Introducing the amazing superhero/sidekick duo! _______ and ______!</item>
+        <item>In M. Night Shyamalan\'s new movie, Bruce Willis discovers that ______ had really been ______ all along.</item>
+        <item>Step 1: ______.\nStep 2: ______.\nStep 3: Profit.</item>
+        <item>They said we were crazy. They said we couldn\'t put ______ inside of ______. They were wrong.</item>
+        <item>I never truly understood ______ until I encountered ______.</item>
+        <item>Lifetime® presents \"______, the Story of ______.\"</item>
+        <item>When I was tripping on acid, ______ turned into ______.</item>
+        <item>That\'s right, I killed ______. How you ask? ______.</item>
+    </string-array>
+    <string-array name="black_us_3">
+        <item>Make a haiku.</item>
+        <item>______+______=______.</item>
+    </string-array>
+    <string-array name="white_us">
+        <item>Being on fire.</item>
+        <item>Racism.</item>
+        <item>Old-people smell.</item>
+        <item>A micropenis.</item>
+        <item>Women in yogurt commercials.</item>
+        <item>Classist undertones.</item>
+        <item>Not giving a shit about the Third World.</item>
+        <item>Inserting a mason jar into my anus.</item>
+        <item>Court-ordered rehab.</item>
+        <item>A windmill full of corpses.</item>
+        <item>The gays.</item>
+        <item>An oversized lollipop.</item>
+        <item>African children.</item>
+        <item>An asymmetric boob job.</item>
+        <item>Bingeing and purging.</item>
+        <item>The hardworking Mexican.</item>
+        <item>An Oedipus complex.</item>
+        <item>A tiny horse.</item>
+        <item>Boogers.</item>
+        <item>Penis envy.</item>
+        <item>Barack Obama.</item>
+        <item>My humps.</item>
+        <item>The Tempur-Pedic® Swedish Sleep System™.</item>
+        <item>Scientology.</item>
+        <item>Dry heaving.</item>
+        <item>Skeletor.</item>
+        <item>Darth Vader.</item>
+        <item>Figgy pudding.</item>
+        <item>Advice from a wise, old black man.</item>
+        <item>Five-Dollar Footlongs™.</item>
+        <item>Elderly Japanese men.</item>
+        <item>Free samples.</item>
+        <item>Estrogen.</item>
+        <item>Sexual tension.</item>
+        <item>Famine.</item>
+        <item>A stray pube.</item>
+        <item>Men.</item>
+        <item>Heartwarming orphans.</item>
+        <item>Chunks of dead hitchhiker.</item>
+        <item>A bag of magic beans.</item>
+        <item>Repression.</item>
+        <item>Prancing.</item>
+        <item>My relationship status.</item>
+        <item>Overcompensation.</item>
+        <item>Peeing a little bit.</item>
+        <item>Pooping back and forth. Forever.</item>
+        <item>A ball of earwax, semen, and toenail clippings.</item>
+        <item>Testicular torsion.</item>
+        <item>The Devil himself.</item>
+        <item>The World of Warcraft.</item>
+        <item>Dick Cheney.</item>
+        <item>MechaHitler.</item>
+        <item>Being fabulous.</item>
+        <item>Pictures of boobs.</item>
+        <item>A gentle caress of the inner thigh.</item>
+        <item>The Amish.</item>
+        <item>The rhythms of Africa.</item>
+        <item>Lance Armstrong\'s missing testicle.</item>
+        <item>Pedophiles.</item>
+        <item>The Pope.</item>
+        <item>Flying sex snakes.</item>
+        <item>Sarah Palin.</item>
+        <item>Feeding Rosie O\'Donnell.</item>
+        <item>Sexy pillow fights.</item>
+        <item>Invading Poland.</item>
+        <item>Cybernetic enhancements.</item>
+        <item>Civilian casualties.</item>
+        <item>Jobs.</item>
+        <item>The female orgasm.</item>
+        <item>Bitches.</item>
+        <item>The Boy Scouts of America.</item>
+        <item>Auschwitz.</item>
+        <item>Finger Painting.</item>
+        <item>The Care Bare Stare.</item>
+        <item>The Jews.</item>
+        <item>Being marginalized.</item>
+        <item>The Blood of Christ.</item>
+        <item>Dead parents.</item>
+        <item>The art of seduction.</item>
+        <item>Dying of dysentery.</item>
+        <item>Mr. Clean, right behind you.</item>
+        <item>Magnets.</item>
+        <item>Jewish fraternities.</item>
+        <item>Hot Pockets®.</item>
+        <item>Natalie Portman.</item>
+        <item>Agriculture.</item>
+        <item>Judge Judy.</item>
+        <item>Surprise sex!</item>
+        <item>The homosexual agenda.</item>
+        <item>Robert Downey, Jr.</item>
+        <item>The Trail of Tears.</item>
+        <item>An M. Night Shyamalan plot twist.</item>
+        <item>Funky fresh rhymes.</item>
+        <item>The light of a billion suns.</item>
+        <item>Amputees.</item>
+        <item>Throwing a virgin into a volcano.</item>
+        <item>Italians.</item>
+        <item>Explosions.</item>
+        <item>A good sniff.</item>
+        <item>Destroying the evidence.</item>
+        <item>Children on leashes.</item>
+        <item>Catapults.</item>
+        <item>One trillion dollars.</item>
+        <item>Friends with benefits.</item>
+        <item>Dying.</item>
+        <item>Silence.</item>
+        <item>Growing a pair.</item>
+        <item>YOU MUST CONSTRUCT ADDITIONAL PYLONS.</item>
+        <item>Justin Bieber.</item>
+        <item>The Holy Bible.</item>
+        <item>Balls.</item>
+        <item>Praying the gay away.</item>
+        <item>Teenage pregnancy.</item>
+        <item>German dungeon porn.</item>
+        <item>The invisible hand.</item>
+        <item>My inner demons.</item>
+        <item>Powerful thighs.</item>
+        <item>Getting naked and watching Nickelodeon.</item>
+        <item>Crippling debt.</item>
+        <item>Kamikaze pilots.</item>
+        <item>Teaching a robot to love.</item>
+        <item>Police brutality.</item>
+        <item>Horse meat.</item>
+        <item>All-you-can-eat shrimp for $4.99.</item>
+        <item>Heteronormativity.</item>
+        <item>Micheal Jackson.</item>
+        <item>A really cool hat.</item>
+        <item>Copping a feel.</item>
+        <item>Crystal meth.</item>
+        <item>Shapeshifters.</item>
+        <item>Fingering.</item>
+        <item>A disappointing birthday party.</item>
+        <item>The Patriarchy.</item>
+        <item>My soul.</item>
+        <item>A sausage festival.</item>
+        <item>The chronic.</item>
+        <item>Eugenics.</item>
+        <item>Synergistic management solutions.</item>
+        <item>RoboCop.</item>
+        <item>Serfdom.</item>
+        <item>Stephen Hawking talking dirty.</item>
+        <item>A man on the brink of orgasm.</item>
+        <item>Fiery poops.</item>
+        <item>Public ridicule.</item>
+        <item>White-man scalps.</item>
+        <item>The morbidly obese.</item>
+        <item>Object permanence.</item>
+        <item>GoGurt®.</item>
+        <item>Lockjaw.</item>
+        <item>Joe Biden.</item>
+        <item>Bio-engineered assault turtles with acid teeth.</item>
+        <item>Wet dreams.</item>
+        <item>Hip hop jewels.</item>
+        <item>Firing a rifle into the air while balls deep in a squealing hog.</item>
+        <item>Panda sex.</item>
+        <item>Necrophilia.</item>
+        <item>Grave robbing.</item>
+        <item>A bleached asshole.</item>
+        <item>Muhammad (Praise Be Unto Him).</item>
+        <item>Multiple stab wounds.</item>
+    </string-array>
+</resources>
